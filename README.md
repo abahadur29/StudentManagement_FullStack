@@ -71,48 +71,48 @@ Below are the screenshots demonstrating the complete flow of the application, fr
 
 ### 1. Login Page
 User login interface where existing users can enter their credentials.
-![Login Page](screenshots/1. Login Page Design.png)
+![Login Page](screenshots/1.%20Login%20Page%20Design.png)
 
 ### 2. Login Error – Invalid Credentials
 Error alert shown when incorrect login credentials are entered.
-![Login Error](screenshots/2. Login Error - Invalid Credentials.png)
+![Login Error](screenshots/2.%20Login%20Error%20-%20Invalid%20Credentials.png)
 
 ### 3. Registration Successful
 Confirmation alert displayed after a new user successfully registers.
-![Registration Successful](screenshots/3. Registration Successful.png)
+![Registration Successful](screenshots/3.%20Registration%20Successful.png)
 
 ### 4. Student Dashboard
 Main dashboard displayed after successful login.
-![Student Dashboard](screenshots/4. Student Dashboard.png)
+![Student Dashboard](screenshots/4.%20Student%20Dashboard.png)
 
 ### 5. Add New Student – Success
 Alert shown after a student is added successfully.
-![Add Student Success](screenshots/5. Adding a New Student - Success.png)
+![Add Student Success](screenshots/5.%20Adding%20a%20New%20Student%20-%20Success.png)
 
 ### 6. Student List View (After Adding)
 Updated student list after adding a new student.
-![Student List After Adding](screenshots/6. Student List View (After Adding).png)
+![Student List After Adding](screenshots/6.%20Student%20List%20View%20(After%20Adding).png)
 
 ### 7. Update Student – Success
 Alert shown after updating student details.
-![Update Student Success](screenshots/7. Update Student - Success.png)
+![Update Student Success](screenshots/7.%20Update%20Student%20-%20Success.png)
 
 ### 8. Student List View (After Updating)
 Updated student list after editing student details.
-![Student List After Updating](screenshots/8. Student List View (After Updating).png)
+![Student List After Updating](screenshots/8.%20Student%20List%20View%20(After%20Updating).png)
 
 ### 9. Delete Confirmation Popup
 Confirmation dialog displayed before deleting a student.
-![Delete Confirmation](screenshots/9. Delete Confirmation Popup.png)
+![Delete Confirmation](screenshots/9.%20Delete%20Confirmation%20Popup.png)
 
 ### 10. Student List View (After Deletion)
 Student list after a student record has been deleted.
-![List After Deletion](screenshots/10. List After Deletion.png)
+![List After Deletion](screenshots/10.%20List%20After%20Deletion.png)
 
 ### 11. Frontend Project Structure (Angular)
 Folder structure of the Angular frontend application.
-![Frontend Structure](screenshots/11. VS Code Frontend Structure.png)
+![Frontend Structure](screenshots/11.%20VS%20Code%20Frontend%20Structure.png)
 
 ### 12. Backend Project Structure (ASP.NET Core)
 Folder structure of the ASP.NET Core backend API.
-![Backend Structure](screenshots/12. VS Studio Backend Structure.png)
+![Backend Structure](screenshots/12.%20VS%20Studio%20Backend%20Structure.png)
