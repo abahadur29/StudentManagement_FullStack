@@ -1,0 +1,27 @@
+<div class="register-container">
+  <div class="card">
+    <h2>Create Account</h2>
+    <p class="subtitle">Join us to manage your students</p>
+
+    <div class="form-group">
+      <label>Email Address</label>
+      <input type="email" placeholder="name@example.com" [(ngModel)]="email">
+    </div>
+
+    <div class="form-group">
+      <label>Password</label>
+      <input 
+        type="password" 
+        placeholder="Create a strong password" 
+        [(ngModel)]="password"
+        (keyup.enter)="register()">
+    </div>
+
+    <button class="btn-primary" (click)="register()">Sign Up</button>
+
+    <p class="footer-text">
+      Already have an account? 
+      <span class="link" (click)="goToLogin()">Login here</span>
+    </p>
+  </div>
+</div>
